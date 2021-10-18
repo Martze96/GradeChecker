@@ -1,0 +1,33 @@
+ggf. mailserver einrichten?
+eher einfach ne neue gmail einrichten mit passendem name, aber dann halt schauen wie das mit dem Passwort aussieht..
+
+vielleicht auch einfach whatsapp nachricht senden? automatisiert
+
+BUGS: - ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+        Fix dafür scheint eine umstellung in Chrome zu sein, noch nicht versucht, aber programm läuft dennoch!
+
+GUI 
+
+wenn ich das py nicht als exe hinbekomme, was nciht zwingend schlimm ist kann ich das ja in java umprogrammieren.
+
+empfänger + absender e-mail mal mit dr hochschul e-mail ausprobieren!!
+
+Letzes Fach anzeigen und und bei neuer Note dieses Fach mit in die Konsole + E-Mail
+
+Häkchen ob mit Note e_mail
+
+E-Mail struktur richtig anfertigen
+
+ggf. Farbcodes raus (aber will ja eh gui machen)
+
+Anleitung mit Screenshots anfertigen
+
+Lizensierung bzw. Copyright recherchieren falls ich es veröffentlichen möchte
+
+falls doch so ohne gui, vllt. selenium auto installer?
+
+ggf. verschiedene Browser implementieren (Firefox + Opera driver + IE + Edge Browser?)
+
+Noten in Tabelle schön anzeigen lassen
+
+
