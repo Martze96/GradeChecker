@@ -14,7 +14,7 @@ def send_ip():
         s = smtplib.SMTP("mail.gmx.net")
         s.ehlo()
         s.starttls() # SMTP-Server deines Email-Anbieters eintragen
-        s.login("maul_martin@gmx.de", "Mmartin96") # LogIn-Name und Passwort deines Email_Accounts eintragen
+        s.login("maul_martin@gmx.de", "INSERT PASSWORD") # LogIn-Name und Passwort deines Email_Accounts eintragen
 
         # Aktuelles Datum holen
         Datum = datetime.date.today()
